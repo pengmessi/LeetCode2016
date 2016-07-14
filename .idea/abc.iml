@@ -2,7 +2,7 @@
 <module type="CPP_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/LC307.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LC366.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/LC146.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/LC305.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/LC363.cpp" isTestSource="false" />
@@ -12,6 +12,7 @@
       <sourceFolder url="file://$MODULE_DIR$/LC315.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/LC351.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LC307.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/LC278.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/LC260.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/LC289.cpp" isTestSource="false" />
